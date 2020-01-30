@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ML4W Final",
+"dataUrl": "FinalTest03.data.unityweb",
+"wasmCodeUrl": "FinalTest03.wasm.code.unityweb",
+"wasmFrameworkUrl": "FinalTest03.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
