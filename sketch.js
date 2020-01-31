@@ -23,7 +23,6 @@
     // Get videos from webcam
     video = createCapture(VIDEO);
     video.size(400, 300);
-
     noCanvas();
 
     // Make a prediction on video
