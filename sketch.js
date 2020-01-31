@@ -2,7 +2,7 @@
 
   var gameInstance = UnityLoader.instantiate("gameContainer", "Build/FinalTest03.json", {onProgress: UnityProgress});
 
-  const checkpoint = 'https://storage.googleapis.com/tm-pro-a6966.appspot.com/DylanDawkinsFinalModel05-08/model.json';
+  const checkpoint = 'https://teachablemachine.withgoogle.com/models/9BpIeyXU/model.json';
 
   //const checkpoint = 'https://storage.googleapis.com/tm-pro-a6966.appspot.com/DylanDawkinsFinalModel01/model.json';
   //const checkpoint = 'https://storage.googleapis.com/tm-pro-a6966.appspot.com/Yining-image-example/model.json';
